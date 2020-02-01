@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ouvieghait.getcrx.cn/sitemap.xml
